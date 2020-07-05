@@ -5,6 +5,9 @@ public class ClassOne {
 	public static void main(String[] args) {
 		
 		System.out.println("ilk commit local mastredan");
+		System.out.println("ilk commit local mastredan")
+		
+		
 		
 
 	
